@@ -1,0 +1,32 @@
+H1 { text-align: center }
+
+hr { 
+    display: block;
+    margin-top:1px solid;
+    margin-bottom: 0.5em;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-style: inset;
+    border-width: 1px;
+    color: #00b050;
+    background-color: #00b050;
+    height: 5px;
+}
+
+H2 { text-align: cneter;
+     font-style: italic;
+     text-align: center;
+     font-weight: normal;
+}
+
+img { display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.section_title { font-style: italic;
+font-weight: bold;
+text-decoration: underline;
+}
+
+div.resume_content { font-size: 18px;}
