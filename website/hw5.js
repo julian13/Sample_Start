@@ -65,7 +65,10 @@ let inputHandler = function(choice) {
 }
 
 // if user selects 0, do exit routine
-let exit = function() {}
+let exit = function() {
+messageArea.innerHTML = "Goodbye"
+}
+
 
 
 
@@ -119,6 +122,5 @@ let printList = function() {
 let refreshMessage = function(){
 messageArea.innerHTML = "Please refresh page"
 }
-
 
 myProgram()
