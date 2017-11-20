@@ -94,7 +94,7 @@ for (iteration in candidates){
 		if (iterationLikes > likes){
 			indexNumber += 1
 		}
-		else if (iterationLikes == likes && iterationName < name){
+		else if (iterationLikes == likes && iterationName > name){
 			indexNumber +=1
 		}
 	}
