@@ -1,0 +1,11 @@
+#master {
+    width: 80%;
+	margin: auto;
+    
+}
+#listNamesDiv {
+    float: left;
+margin-right: 15%;
+}
+#addNames {
+}
